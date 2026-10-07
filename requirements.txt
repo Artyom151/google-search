@@ -1,0 +1,5 @@
+PySide6>=6.6
+# optional: --import-cookies
+cryptography
+# optional: --hotkey on X11 / Windows / macOS
+pynput
